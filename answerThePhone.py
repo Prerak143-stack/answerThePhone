@@ -1,6 +1,4 @@
-# I am Prerak Patel and my student number 000736376 I myself certify that all
-# the code is written by myself  and submitted I also clarify that I have not
-# allowed my work to be copied by others
+
 
 print("Hello sir, you got a call\n")
 
